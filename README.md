@@ -1,4 +1,7 @@
-## Hi there 👋
+## ✨About Me✨
+- I have a Msci of marine biology🧜‍♀️
+- 🤓I'm perfecting my data science skills in R and Python
+- I am always looking for help with my code and making it more efficient :) 
 
 <!--
 **Anastasia-MN/Anastasia-MN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
